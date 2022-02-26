@@ -1,0 +1,27 @@
+body {
+    background-color: darkturquoise;
+}
+h1 {
+    color:blueviolet;
+    background-color: red;
+}
+h2 {
+    color:crimson;
+    background-color: darksalmon;
+}
+p {
+    color:indianred;
+    background-color: darkviolet;
+}
+strong {
+    color: coral;
+    background-color: darkgreen;
+}
+em {
+    color:rgb(0, 102, 255);
+    background-color: chocolate;
+}
+ins {
+    color:#C1FF00;
+    background-color: crimson;
+}
